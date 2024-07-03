@@ -1,0 +1,5 @@
+/backend/instance/
+/backend/__pychache__/
+/backend/model/
+/backend/datasets/
+/frontend/node_modules/
